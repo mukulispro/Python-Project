@@ -1,0 +1,10 @@
+{
+    "cpu_warning": 70,
+    "cpu_critical": 85,
+    "memory_warning": 70,
+    "memory_critical": 85,
+    "disk_warning": 70,
+    "disk_critical": 85,
+    "network_target": "https://google.com"
+}
+ 
